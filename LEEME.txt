@@ -1,0 +1,25 @@
+WEB DE IANIRE LEGAZ — INSTRUCCIONES
+
+Archivos incluidos:
+- index.html: página principal.
+- styles.css: diseño adaptable a ordenador, tablet y móvil.
+- script.js: menú móvil, ventana de contacto y formulario que prepara WhatsApp.
+
+IMÁGENES PENDIENTES DE AÑADIR
+Copia las fotografías originales en la misma carpeta que index.html con estos nombres exactos:
+- Iani.jpeg: foto personal para la sección «Quién soy».
+- hero-consulta.webp: foto de la consulta para la cabecera.
+No se han incluido porque no se han adjuntado los archivos de imagen en esta conversación. No se han sustituido por fotografías inventadas.
+
+CANALES DE CONTACTO CONFIGURADOS
+- WhatsApp: https://wa.me/34611676519
+- Doctoralia: https://www.doctoralia.es/perfil/ianire-legaz-sagarzazu
+- Correo: psicologialegaz@gmail.com
+
+El mensaje de WhatsApp pide el motivo de consulta y la disponibilidad durante los próximos 15 días. El usuario revisa y envía el mensaje desde su propia cuenta. El formulario no guarda datos en un servidor ni reserva citas automáticamente.
+
+PUBLICACIÓN
+Sube index.html, styles.css, script.js y las dos imágenes a la carpeta pública de tu alojamiento web (por ejemplo, public_html), manteniendo los nombres y rutas.
+
+ANTES DE PUBLICAR
+Revisa que los textos sobre formación, servicios y especialidades describen fielmente tu actividad. Añade y enlaza tus páginas de aviso legal, privacidad y cookies según corresponda; no se han inventado textos legales ni enlaces a páginas inexistentes. Comprueba que el dominio utiliza HTTPS y prueba los enlaces desde móvil y ordenador.
